@@ -929,8 +929,8 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger(__name__)
 
 # 配置项：请替换为你的真实值
-DIFY_API_KEY = "app-yJhD6gRaJixKw7aYvd8swMGx"
-DEEPSEEK_API_KEY = "sk-1a92e8b805d645c1bb0a1362b5803109"
+DIFY_API_KEY = "app-yJhD6aJix"
+DEEPSEEK_API_KEY = "sk-1a92e8b8051"
 DB_URI = "mysql://root:123456@localhost/db_admin2"
 
 # DeepSeek API 配置
