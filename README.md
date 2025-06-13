@@ -47,7 +47,8 @@ A Smart Enterprise Management System Integrating LLM Interaction and Face Recogn
 > - 人脸识别打卡页面 
 > - 企业知识问答界面
 > - <img width="954" alt="PPT请假流程" src="https://github.com/user-attachments/assets/487e1a23-ed37-4ee2-9272-247c7232ab3b" />
-  <img width="954" alt="PPT请假流程" src="https://github.com/user-attachments/assets/fe660e9d-9c50-4156-b7d5-5f758236d381" />
+  <img width="954" alt="PPTai打卡人员问答" src="https://github.com/user-attachments/assets/33dc9db0-69d6-435b-a733-af8b49a60b8a" />
+
 
 > - 考勤图表展示界面
 <img width="944" alt="数据管理" src="https://github.com/user-attachments/assets/5faccb80-28a6-40e9-b100-0927b143102a" />
