@@ -38,15 +38,21 @@ A Smart Enterprise Management System Integrating LLM Interaction and Face Recogn
 
 ---
 
-## 📷 系统界面预览（可选）
+## 📷 系统界面预览
 
-> 你可以添加系统截图，如：  
-> - 登录页面  
-> - 人脸识别打卡页面  
-> - 企业知识问答界面  
+> 如： 
+> - 登录页面
+> - <img width="943" alt="登录页面" src="https://github.com/user-attachments/assets/af29fd3c-0612-48da-9788-67a75d632db6" />
+
+> - 人脸识别打卡页面 
+> - 企业知识问答界面
+> - <img width="954" alt="PPT请假流程" src="https://github.com/user-attachments/assets/487e1a23-ed37-4ee2-9272-247c7232ab3b" />
+  <img width="954" alt="PPT请假流程" src="https://github.com/user-attachments/assets/fe660e9d-9c50-4156-b7d5-5f758236d381" />
+
 > - 考勤图表展示界面
+<img width="944" alt="数据管理" src="https://github.com/user-attachments/assets/5faccb80-28a6-40e9-b100-0927b143102a" />
 
 ---
 
-## 📦 项目结构（简略示例）
+
 
