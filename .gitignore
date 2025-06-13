@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.sqlite3
+*.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Node / Vue
+node_modules/
+dist/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS 文件
+.DS_Store
+Thumbs.db
